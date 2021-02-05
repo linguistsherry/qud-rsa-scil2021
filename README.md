@@ -3,7 +3,7 @@
 This repository contains the materials for the following:
 
 > Sherry Yong Chen and Bob van Tiel (2021). 
-Every ambiguity isn't syntactic in nature: Testing the Rational Speech Act model of scope ambiguity
+Every ambiguity isn't syntactic in nature: Testing the Rational Speech Act model of scope ambiguity. 
 *Proceedings of the Society for Computation in Linguistics (SCiL 2021)*
 
 If you use any of our code, data, or analyses, please cite the paper using the bib entry below (details will be updated as they become available):
