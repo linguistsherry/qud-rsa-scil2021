@@ -6,16 +6,16 @@ This repository contains the materials for the following:
 Every ambiguity isn't syntactic in nature: Testing the Rational Speech Act model of scope ambiguity. 
 *Proceedings of the Society for Computation in Linguistics (SCiL 2021)*
 
-If you use any of our code, data, or analyses, please cite the paper using the bib entry below (details will be updated as they become available):
+If you use any of our code, data, or analyses, please cite the paper using the bib entry below:
 ```
 @InProceedings{ChenVanTiel:2021,
   Author = {Chen, Sherry Yong and van Tiel, Bob},
   Title = {Every ambiguity isn't syntactic in nature: Testing the Rational Speech Act model of scope ambiguity},
   Booktitle = {Proceedings of the Society for Computation in Linguistics (SCiL 2021)},
-  //Volume = {},
-  //Pages = {},
+  Volume = {4},
+  Pages = {254-263},
   Year = {2021},
-  //URL = {}
+  URL = {https://scholarworks.umass.edu/scil/vol4/iss1/24/}
 }
 ```
 
