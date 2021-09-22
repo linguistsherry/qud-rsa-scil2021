@@ -28,3 +28,5 @@ Our materials are organized into three primary folders:
 * [data](data) (results from each experiment)
 * [materials](materials) (stimuli used for each experiment)
 
+---
+Note: The code for implementing the Multi-Slider controller in (PC)Ibex Farm is also included in this repository.
